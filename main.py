@@ -1,7 +1,7 @@
 import random
 
 
-#akármi = 10
+
 
 
 print("""
